@@ -1,5 +1,5 @@
 # hello-world
-Este es mi primer repo 
+Este es mi primer repo :)
 
 Suarez Bello, 20200482
 
@@ -9,5 +9,7 @@ Suarez Bello, 20200482
 - Este es el segundo bullet
 
 # Segunda sección
+
+**Más texto en negrita
 
 ## otro subtitulo
