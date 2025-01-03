@@ -10,6 +10,8 @@ Suarez Bello, 20200482
 
 # Segunda sección
 
-**Más texto en negrita
+**Más texto en negrita**
 
 ## otro subtitulo
+
+*Otro más en cursiva*
