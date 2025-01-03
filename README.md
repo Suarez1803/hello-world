@@ -1,7 +1,7 @@
 # hello-world
-Este es mi primer repo :)
+Este es mi primer repos
 
-Suarez Bello, 20200482
+Suarez Bello, Diego
 
 ## Subtitulo
 
